@@ -1,2 +1,2 @@
 # kit
-Implementing revision control system copy of Git
+Implementing version control system copy of Git
